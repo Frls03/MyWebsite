@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+TAS+Beginner:wght@400;500;600;700&display=swap');
+
+
+.navbar{
+  padding-left: 4vw;
+  padding-right: 4vw;
+}
+
+.navbar-img{
+  width: 4vw;
+  border-radius: 85px;
+  margin-top: 0.2vw;
+  margin-right: 1vw;
+}
+
+.navbar-brand{
+  font-family: 'Edu TAS Beginner', sans-serif !important;
+  margin-top: 0.2vw;
+  font-size: 1.7vw;
+  font-weight: bold;
+}
+
+.navbar-nav{
+  padding-left: 4vw !important;
+}
+
+.nav-link{
+  font-size: 1.4vw;
+}
+
+
+
