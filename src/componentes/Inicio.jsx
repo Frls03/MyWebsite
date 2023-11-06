@@ -1,5 +1,6 @@
 
 import './styles/Inicio.css';
+import img from './imgs/profile_sn.png';
 
 const Inicio = () => {
   return (
@@ -18,7 +19,7 @@ const Inicio = () => {
             <button className='btn'><b>Download CV</b></button>
           </div>
           <div className="col-md-6 mx-auto">
-            <img src="https://i.pinimg.com/originals/54/5d/c7/545dc70147b6b8a300d33ef5cc51ca5a.jpg" width={500} alt="" />
+            <img src={img} width={500} alt="" />
           </div>
         </div>
       </div>

@@ -1,0 +1,36 @@
+
+body, nav, .navbar{
+  background: #122036 !important;
+  color: white !important;
+}
+
+.navbar-brand{
+  color:white !important;
+}
+
+.nav-link{
+  font-weight: bold;
+  color: white !important;
+  transition: .30s;
+}
+
+.nav-link:hover{
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 6px;
+  transition: .30s;
+}
+
+.card{
+  background-color: transparent;
+  border: 0.2px solid gray;
+}
+
+.footer{
+  background: #1E293C !important;
+  color: white !important;
+}
+
+hr {
+  border-top: 1px solid white; /* Cambia #ff0000 por el color que desees */
+}
